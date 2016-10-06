@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Color My Photo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="take_photo">Testing Take Photo</string>
+
+    <!-- TODO enter api key for algorithmia below to run code -->
+    <string name="algorithmia_api_key">ENTER API KEY HERE</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
