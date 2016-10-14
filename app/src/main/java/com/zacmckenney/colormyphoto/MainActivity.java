@@ -231,7 +231,7 @@ public class MainActivity extends AppCompatActivity
 
 
                 ByteArrayOutputStream out = new ByteArrayOutputStream();
-                bm.compress(Bitmap.CompressFormat.JPEG, 20, out);
+                bm.compress(Bitmap.CompressFormat.JPEG, 40, out);
                 thumbByte = out.toByteArray();
 //                shrunkThumbnail = BitmapFactory.decodeStream(new ByteArrayInputStream(out.toByteArray()));
 
